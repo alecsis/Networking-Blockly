@@ -1,2 +1,2 @@
-# Networking-Blockly
-Creating a blockly game using networking between 2 persons
+# Blockly game
+Creating a blockly game for children learning logic concepts
